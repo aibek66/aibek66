@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Aibek! 👋
 
-<!--
-**aibek66/aibek66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Frontend Developer** with nearly **two years of professional experience**, dedicated to building clean, interactive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🛠️ Currently working with a modern stack including **JavaScript, Angular, and Tailwind CSS**.
+* 🎓 Actively expanding my knowledge through **ZeroToMastery**, staying up-to-date with the latest web development trends.
+* ⚡ I enjoy crafting efficient UI components and exploring lightweight solutions like **Alpine.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+* **Languages:** JavaScript (ES6+)
+* **Frameworks:** Angular, Alpine.js
+* **Styling:** CSS3, Tailwind CSS, SCSS
+* **Tools:** Git, GitHub, NPM/Yarn
+
+### 🌱 Learning Journey
+Right now, I'm deep-diving into advanced web architectures and ecosystem tools on the ZTM platform to become a more versatile engineer.
+
