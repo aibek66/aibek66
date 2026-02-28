@@ -11,7 +11,8 @@ I am a **Frontend Developer** with nearly **two years of professional experience
 * **Languages:** JavaScript (ES6+), TypeScript
 * **Frameworks:** Angular, React, Alpine.js, 
 * **Styling:** CSS3, Tailwind CSS, SCSS
-* **Tools:** Git, GitHub, NPM/Yarn
+* **Tools:** Git, GitHub
+* **Build Tools:** Vite, Webpack
 
 ### 🌱 Learning Journey
 Right now, I'm deep-diving into advanced web architectures and ecosystem tools on the ZTM platform to become a more versatile engineer.
