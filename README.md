@@ -3,13 +3,13 @@
 I am a **Frontend Developer** with nearly **two years of professional experience**, dedicated to building clean, interactive, and user-friendly web applications.
 
 ### 🚀 About Me
-* 🛠️ Currently working with a modern stack including **JavaScript, Angular, and Tailwind CSS**.
+* 🛠️ Currently working with a modern stack including **JavaScript, TypeScript, Angular, React and Tailwind CSS**.
 * 🎓 Actively expanding my knowledge through **ZeroToMastery**, staying up-to-date with the latest web development trends.
 * ⚡ I enjoy crafting efficient UI components and exploring lightweight solutions like **Alpine.js**.
 
 ### 🛠️ My Tech Stack
-* **Languages:** JavaScript (ES6+)
-* **Frameworks:** Angular, Alpine.js
+* **Languages:** JavaScript (ES6+), TypeScript
+* **Frameworks:** Angular, React, Alpine.js, 
 * **Styling:** CSS3, Tailwind CSS, SCSS
 * **Tools:** Git, GitHub, NPM/Yarn
 
